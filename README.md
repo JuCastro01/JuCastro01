@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! Eu sou a Júlia 👋
 
 - 🔭 Atualmentee cursando o 4º Semestre de Ciência da Computação na Universidade Presbiteriana Mackenzie.
 - 🌱 Estudando na faculdade principalmente C e C++, mas também me intereço bastante pela area de dados usando python e SQL nesse sentido.
