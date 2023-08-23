@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Júlia 👋
 
-- 🔭 Atualmentee cursando o 5º Semestre de Ciência da Computação na Universidade Presbiteriana Mackenzie.
-- 🌱 Estudando na faculdade principalmente C e C++, mas também me interesso bastante pela area de dados usando python e SQL nesse sentido.
-- 🤔 Aprendendo GCP/AWS e desenvolvimento web (HTML, CSS, JavaScript) por conta própria online.
+- 🔭 Atualmentee cursando o 7º Semestre de Ciência da Computação na Universidade Presbiteriana Mackenzie.
+- 🌱 Nesse semestre na faculdade tenho estudado principalmente sistemas distribuidos, paralelismo e AI, mas foco independentemente na area de desenvolvimento Python, Devops, Cloud (AWS/GCP) e automação de processos.
+- 🤔 Aprendendo desenvolvimento web (HTML, CSS, JavaScript) por conta própria online para meu projeto de TCC "Bitmob".
 - 💬 Me pergunte sobre... o projeto BentVee!
 - 📫 Entre em contato no e-mail: jucastro.01@gmail.com
 - 😄 Pronomes: Ela/Dela, She/Her
