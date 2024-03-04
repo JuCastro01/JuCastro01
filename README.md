@@ -6,7 +6,7 @@
 - 💬 Me pergunte sobre... o projeto BentVee!
 - 📫 Entre em contato no e-mail: jucastro.01@gmail.com
 - 😄 Pronomes: Ela/Dela, She/Her
-- ⚡ Fun fact: Tenho um canal na Twitch! https://www.twitch.tv/jucastro01
+
 
  ##
 
