@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Júlia 👋
 
-- 🔭 Atualmentee cursando o 7º Semestre de Ciência da Computação na Universidade Presbiteriana Mackenzie.
+- 🔭 Atualmentee cursando o 8º Semestre de Ciência da Computação na Universidade Presbiteriana Mackenzie.
 - 🌱 Nesse semestre na faculdade tenho estudado principalmente sistemas distribuidos, paralelismo e AI, mas foco independentemente na area de desenvolvimento Python, Devops, Cloud (AWS/GCP) e automação de processos.
 - 🤔 Aprendendo desenvolvimento web (HTML, CSS, JavaScript) por conta própria online para meu projeto de TCC "Bitmob".
 - 💬 Me pergunte sobre... o projeto BentVee!
